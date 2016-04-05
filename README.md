@@ -10,3 +10,8 @@ OAuth
 https://github.com/ciaranj/node-oauth
 
 https://github.com/jaredhanson/passport-oauth2
+
+passport serialize && deserilize
+
+http://stackoverflow.com/questions/27637609/understanding-passport-serialize-deserialize
+https://developer.github.com/v3/oauth/#web-application-flow
